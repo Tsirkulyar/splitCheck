@@ -3,7 +3,6 @@
       <router-view></router-view>
  </div>
 </template>
-
 <script >
 import CheckPage from './components/CheckPage.vue';
 import AddProducts from './components/AddProducts.vue';
